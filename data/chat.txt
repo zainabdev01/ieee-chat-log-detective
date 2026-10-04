@@ -1,0 +1,46 @@
+[10:01] Ali: Server is down
+[10:02] Sara: Again?
+[10:03] Ali: I think database crashed
+[10:04] Hamza: Checking it now
+[10:05] SYSTEM: ERROR database connection failed
+[10:06] Sara: I found the issue in port 5432
+CORRUPTED LOG ENTRY 9923847293847
+[10:07] Hamza: Fixed! Restarting service
+[10:08] Ali: Service is back up
+Random garbage line with no timestamp
+[10:10] SYSTEM: ERROR disk space low on /dev/sda1
+[10:11] Sara: Who is handling the disk space issue?
+[10:12] Hamza: I can clean old logs
+[10:12] Ali: Please also check the backup job
+[10:13] SYSTEM: INFO backup job started
+[10:14] Zara: Hi team, just joined. What did I miss?
+[10:15] Sara: Database crashed, Hamza fixed it
+[10:16] Zara: Thanks! Is the dashboard working?
+[10:17] Ali: Checking dashboard now
+[10:18] SYSTEM: WARNING memory usage at 85%
+[10:19] Hamza: Logs cleaned, freed 12GB
+[10:20] SYSTEM: INFO disk space normal
+[10:21] Sara: Great work everyone
+[25:99] Ali: This timestamp is impossible
+[10:22] Ali: Dashboard is loading slowly
+[10:23] Zara: I see timeout errors on my side
+[10:24] SYSTEM: ERROR request timeout on api-gateway
+[10:25] Hamza: Restarting the api gateway
+@@##$$ 0xDEADBEEF ###
+[10:26] Hamza: Gateway restarted
+[10:27] SYSTEM: INFO api-gateway healthy
+[10:28] Ali: Dashboard is fast again
+[10:29] Sara: Can someone write the incident report?
+[10:30] Zara: I will do it
+[10:31] [] : missing fields
+[10:32] Sara: Include the database crash timeline
+[10:33] SYSTEM: ERROR authentication service unreachable
+[10:34] Ali: That one is new
+[10:35] Hamza: Looks like a DNS problem
+[10:36] Ali: Updating DNS records
+[10:37] SYSTEM: INFO authentication service recovered
+10:38 Sara: missing brackets
+[10:39] Sara: All systems are green
+[10:40] Zara: Report draft is ready
+[10:41] Hamza: Nice. Closing the incident
+[10:42] Ali: Thanks all, good teamwork
